@@ -21,10 +21,11 @@
 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,postgres,js,html,css,python,git,github,vscode" />
 </p>
 
-- ⚛️ **Frontend:** React, Next.js, HTML5, CSS3, JavaScript
+- 🎨 **Frontend:** React, Next.js, HTML5, CSS3, JavaScript
 - 🔧 **Backend:** Node.js, Express.js
 - 🗄️ **Databases:** PostgreSQL, MySQL
-- 🐍 **Other:** Python, Git
+- 🤖 **AI/ML:** Python, scikit-learn, Pandas, NumPy
+- 🛠️ **Other:** Git
 
 ---
 
