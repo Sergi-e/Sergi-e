@@ -1,5 +1,5 @@
 # Hi, I'm Serge Ishimwe 👋
-## Full-Stack Web Developer | React · Next.js · Node.js · PostgreSQL
+## Full-Stack Web Developer → Aspiring AI/ML Engineer | React · Next.js · Node.js · PostgreSQL
 
 <p align="center">
 <a href="https://serge-portifolio.vercel.app/" target="_blank">
@@ -28,9 +28,10 @@
 
 ---
 
-### 🚀 What I Build
+### 🚀 About me
 
-I build full-stack web applications — from clean, responsive frontends to reliable REST APIs and database-backed backends. I focus on shipping working products fast.
+I build full-stack web applications, from clean, responsive frontends to reliable REST APIs and database-backed backends, focusing on shipping working products quickly. Lately, I've also been exploring machine learning, deep learning, and NLP, with the goal of becoming an AI/ML engineer.
+
 
 ---
 
